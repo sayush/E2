@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="E2Charts.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="StorygraphVerticalTicks" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="StorygraphHorizontalTicks" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="StorygraphTickLength" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="StorygraphFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="StorygraphFontPadding" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="StorygraphLatitudeName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Lat</Value>
+    </Setting>
+    <Setting Name="StorygraphLongitudeName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Lng</Value>
+    </Setting>
+    <Setting Name="StorygraphDateName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Date</Value>
+    </Setting>
+    <Setting Name="StorygraphColorName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Color</Value>
+    </Setting>
+    <Setting Name="StorygraphLabelName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Label</Value>
+    </Setting>
+    <Setting Name="TimelineVerticalTicks" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

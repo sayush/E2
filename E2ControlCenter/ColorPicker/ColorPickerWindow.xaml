@@ -1,0 +1,8 @@
+﻿<Window x:Class="E2ControlCenter.ColorPicker.ColorPickerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ColorPickerWindow" Height="300" Width="300">
+    <Grid>
+        <DataGrid ItemsSource="{Binding ColorList}"></DataGrid>
+    </Grid>
+</Window>
