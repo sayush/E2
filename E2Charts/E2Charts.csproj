@@ -141,7 +141,7 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\E2x\Direct2D\Direct2D.csproj">
+    <ProjectReference Include="..\Direct2D\Direct2D.csproj">
       <Project>{AFDED8D2-F5ED-4770-830A-5736C90CDA92}</Project>
       <Name>Direct2D</Name>
     </ProjectReference>

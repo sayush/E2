@@ -5,9 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2Data", "E2Data\E2Data.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2Charts", "E2Charts\E2Charts.csproj", "{73844B2D-7485-48BB-92EC-48C25E72774E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct2D", "..\E2x\Direct2D\Direct2D.csproj", "{AFDED8D2-F5ED-4770-830A-5736C90CDA92}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2ControlCenter", "E2ControlCenter\E2ControlCenter.csproj", "{C8DCB138-590D-4AC5-AC58-2FD88D8BC4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct2D", "Direct2D\Direct2D.csproj", "{AFDED8D2-F5ED-4770-830A-5736C90CDA92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,14 @@ Global
 		{73844B2D-7485-48BB-92EC-48C25E72774E}.Debug|x86.Build.0 = Debug|x86
 		{73844B2D-7485-48BB-92EC-48C25E72774E}.Release|x86.ActiveCfg = Release|x86
 		{73844B2D-7485-48BB-92EC-48C25E72774E}.Release|x86.Build.0 = Release|x86
-		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Debug|x86.ActiveCfg = Debug|x86
-		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Debug|x86.Build.0 = Debug|x86
-		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Release|x86.ActiveCfg = Release|x86
-		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Release|x86.Build.0 = Release|x86
 		{C8DCB138-590D-4AC5-AC58-2FD88D8BC4EF}.Debug|x86.ActiveCfg = Debug|x86
 		{C8DCB138-590D-4AC5-AC58-2FD88D8BC4EF}.Debug|x86.Build.0 = Debug|x86
 		{C8DCB138-590D-4AC5-AC58-2FD88D8BC4EF}.Release|x86.ActiveCfg = Release|x86
 		{C8DCB138-590D-4AC5-AC58-2FD88D8BC4EF}.Release|x86.Build.0 = Release|x86
+		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Debug|x86.ActiveCfg = Debug|x86
+		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Debug|x86.Build.0 = Debug|x86
+		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Release|x86.ActiveCfg = Release|x86
+		{AFDED8D2-F5ED-4770-830A-5736C90CDA92}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
